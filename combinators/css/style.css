@@ -1,0 +1,14 @@
+.a p{
+color:#ff0000;}
+h1{
+color:#00ff00;}
+.b >P{color:#ff0000;}
+.c +h2{
+color:#ff0000;}
+.c +p{
+color:#00ff00;}
+.d ~p{
+color:#ff0000;}
+h2{
+text-shadow:2px 2px 20px #ff0000;
+}

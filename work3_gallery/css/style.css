@@ -1,0 +1,16 @@
+.gal{
+	text-align:center;
+}
+.gal img{
+	width:300px;
+	hight:150px;
+	margin:30px;
+	box-shadow:10px 10px 5px grey;
+	filter:grayscale(100%);
+	transition:1s;
+	
+}
+.gal img:hover{
+	filter:none;
+	transform:scale(1.2);
+}

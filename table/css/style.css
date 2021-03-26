@@ -1,0 +1,14 @@
+table,th,td,tr{
+	border: 3px solid #ff0000;
+	border-radius:50px;
+	background-color:#0000ff;
+	border-collapse:collapse;
+    padding:20px;
+	text-align:center;
+   }
+	tfoot,th{
+	border:5px dotted #ff0000;
+	background-color:#00ff00;
+	}
+
+    
